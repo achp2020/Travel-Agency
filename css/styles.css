@@ -1,0 +1,16 @@
+h1{
+  color: #f7325e;
+}
+h2 {
+  color: green;
+  text-align: center;
+}
+
+.Intro{
+  font-style: italic;
+  background-color: #bbff00
+  }
+p.Tropical {
+  color: black;
+  font-family: fantasy;
+}
